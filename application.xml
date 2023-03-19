@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Application>
+    <Entry>Aggregator</Entry>
+    <Name>
+        <English>Aggregator</English>
+        <rus-RU>Агрегатор</rus-RU>
+        <ukr-UA>Агрегатор</ukr-UA>
+    </Name>
+    <Vendor>Evgenii Dobrovidov</Vendor>
+    <Description>Simple feed aggregator with lots of features.</Description>
+    <Icons>
+        <MainMenu>Aggregator.png<Type1>Aggregator.png</Type1>
+            <Type2/>
+        </MainMenu>
+        <Setting/>
+        <Ticker>TickerIcon.png<Type1>TickerIcon.png</Type1>
+            <Type2/>
+        </Ticker>
+        <QuickPanel>QuickPanelIcon.PNG<Type1>QuickPanelIcon.PNG</Type1>
+            <Type2/>
+        </QuickPanel>
+        <LaunchImage>Splash.png<Type1>Splash.png</Type1>
+            <Type2/>
+        </LaunchImage>
+    </Icons>
+    <AutoScaling>
+        <Enabled>false</Enabled>
+    </AutoScaling>
+</Application>
